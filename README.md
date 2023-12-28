@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaheer Ansari</h1>
+<h1 align="center">Hi 👋, I'm Shaheer</h1>
 <h3 align="center">A passionate FullStack Developer and Grey Hat Hacker</h3>
 
 - 🔭 I’m currently working on **A Portfolio**
