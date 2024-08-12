@@ -11,7 +11,7 @@
 ---
 ```yaml
 name: Shaheer
-located_in: NJ
+located_in: NY
 from: ........
 job: Founder and Red Team operator
 education: ["High School"]
