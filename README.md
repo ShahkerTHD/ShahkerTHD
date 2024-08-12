@@ -1,6 +1,27 @@
-<h1 align="center">Hi 👋, I'm Shaheer</h1>
-<h3 align="center">A passionate FullStack Developer and Grey Hat Hacker</h3>
+<p align="center">
+  <img alt="loficity" width="100%" src="https://github.com/ShahkerTHD/Gif/blob/main/Coder%20Shaheer.gif?raw=true">
+</p>
 
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+
+
+
+---
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Founder and Red Team operator
+education: ["High School"]
+company: Code The Stars, The Ummah Today
+fields_of_interests: ["Path Planning", "Mountain Biking", "FPV Piloting", "3D printing and modeling", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+currently_learning: ["Oracle Server", "React", "Vue"]
+```
+---
 
 - 🔭 I’m currently working on **A Portfolio**
 
@@ -17,6 +38,36 @@
 - ⚡ Fun fact I am Muslim
 
 - Find more links **https://thehackerdude1083.github.io/LinkTree/**
-
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehackerdude1083&show_icons=true&theme=radical&locale=en&layout=compact" alt="thehackerdude1083" /></p>
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
+
+
+
+
+📊 **Wait What?!** 
+
+```text
+From: 16 July 2020 - To: 08 August 2024
+
+Total Time: 1,737 hrs 46 mins
+
+C++                625 hrs 42 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.01 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.03 %
+Python             242 hrs 58 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.98 %
+C                  137 hrs 26 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.91 %
+Bash               84 hrs 26 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.86 %
+YAML               77 hrs 49 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
+```
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+<p align="center">
+  <em>"In the world of zeros and ones, I seek the infinite possibilities that lie within the code."</em>
+</p>
