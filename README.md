@@ -38,7 +38,11 @@ currently_learning: ["Oracle Server", "React", "Vue"]
 
 - Find more links **https://thehackerdude1083.github.io/LinkTree/**
 ---
+### Story
+Why did my name change again???
+I know some people know me by many names such as TheHackerDude1083, THD1083, THD, 1083, Shakher, Shahir and many more. So trying to be professional for once but I changed my name once more for my Github to make it more me...
 
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahkerTHD&show_icons=true&theme=radical&locale=en&layout=compact" alt="thehackerdude1083" /></p>
 
 
