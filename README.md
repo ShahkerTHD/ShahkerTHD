@@ -1,6 +1,5 @@
-<p align="center">
-  <img alt="loficity" width="100%" src="https://github.com/ShahkerTHD/Gif/blob/main/Coder%20Shaheer.gif?raw=true">
-</p>
+<h1 align="center">Hi 👋, I'm Coder Shaheer</h1>
+
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
