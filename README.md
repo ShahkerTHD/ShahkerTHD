@@ -34,8 +34,6 @@ currently_learning: ["Oracle Server", "React", "Vue"]
 
 - 📨 Email me at **TheHackerDude1083@proton.me**
 
-- ⚡ Fun fact I am Muslim
-
 - Find more links **https://thehackerdude1083.github.io/LinkTree/**
 ---
 ### Story
