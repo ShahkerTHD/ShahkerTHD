@@ -44,10 +44,6 @@ I know some people know me by many names such as TheHackerDude1083, THD1083, THD
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahkerTHD&show_icons=true&theme=radical&locale=en&layout=compact" alt="thehackerdude1083" /></p>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
-
-
-
 
 📊 **Wait What?!** 
 
